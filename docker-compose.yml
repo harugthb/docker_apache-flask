@@ -1,0 +1,9 @@
+version: "2"
+services:
+  apache_flask:
+    image: apache_flask_img
+    container_name: apache_flask
+    build: ./
+    privileged: true
+    ports:
+      - "8080:8080"
