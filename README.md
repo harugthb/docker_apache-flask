@@ -17,4 +17,4 @@ Hello, Flask!
 ```
 
 # Related page（Japanese）
-
+https://qiita.com/haruka_lbr/items/2132d7ff337267fb39bf
